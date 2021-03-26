@@ -1,5 +1,5 @@
 ## Olá pessoal 👋
-<img src="https://ibb.co/zS7ypcm" min-width="400px" max-width="400px" width="400px" align="right" alt="Cooffe">
+<img src="https://i.ibb.co/vJQ7p5c/tea-S.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Cooffe">
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Desenvolvedor Full Stack :computer:
 
