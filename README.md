@@ -1,5 +1,5 @@
 ## Olá pessoal 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://ibb.co/zS7ypcm" min-width="400px" max-width="400px" width="400px" align="right" alt="Cooffe">
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Desenvolvedor Full Stack :computer:
 
