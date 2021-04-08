@@ -2,10 +2,10 @@
 <img src="https://i.ibb.co/vJQ7p5c/tea-S.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Coffee">
 
 Sou apaixonado por resolver problemas utilizando a programação.<br/>
-Sou um Desenvolvedor Full Stack :computer:
+Sou um Desenvolvedor Front-End :computer:
 
- :rocket:  &nbsp; Sou formado pela **RECODE PRO**
- <br/> :blue_heart: &nbsp; Busco colaborar com projetos em Front-end e Back-End 
+ :rocket:  &nbsp; Sou formado pela **RECODE PRO** como Desenvolvedor Full Stack
+ <br/> :blue_heart: &nbsp; Busco colaborar com projetos 
  
  ## 🚀 Minhas Skills
  <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
@@ -26,7 +26,7 @@ Sou um Desenvolvedor Full Stack :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, RPG, seriados e filmes.
  <br/> :email: &nbsp; Entre em contato comigo:  
  <p align="left">
-  <a href="https://www.linkedin.com/in/alexsandro-sm-1q84/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/alexsandro-sm-1q84/" alt="Linkedin" target="_top">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
   <a href="mail:lexordnas@outlook.com" alt="Outlook" target="_blank">
