@@ -26,7 +26,7 @@ Sou um Desenvolvedor Full Stack :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, RPG, seriados e filmes.
  <br/> :email: &nbsp; Entre em contato comigo:  
  <p align="left">
-  <a href="https://www.linkedin.com/in/alexsandro-sm-1q84/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/alexsandro-sm-1q84/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
   <a href="mail:lexordnas@outlook.com" alt="Outlook">
