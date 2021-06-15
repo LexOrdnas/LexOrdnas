@@ -35,3 +35,5 @@ Sou um Desenvolvedor Front-End :computer:
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511969526115" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>  
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
